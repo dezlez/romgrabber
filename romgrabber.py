@@ -52,11 +52,6 @@ print distantFiles
 sftp.put('/home/pi/RetroPie/roms/snes/Mortal Kombat.zip', '/storage/emulated/0/Download/Mortal Kombat.zip') #You need to re-type the name of the file in the destination
 print 'The file has been transfered to your device'
 
-# ...
-# ...
-# ...
 
-
-# End Script
 sftp.close()
 ssh.close()
