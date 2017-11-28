@@ -1,8 +1,11 @@
 # romgrabber
 
-These are two handy scripts for transfering files from your RetroPie to your Andriod Mobile Device.
+These are a few handy scripts for transfering .zip and .srm (in game save states) files from your RetroPie to your Andriod Mobile Device.
+
+Prerequisites: 
 
 *Must have your Android Device set up as a SSHD Server.* 
+*Must have paramiko installed on Raspberry pi* 
 
 How to run: 
 
