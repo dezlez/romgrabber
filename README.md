@@ -10,5 +10,6 @@ How to run:
 2. Start Server. 
 3. Download Romgrabber. 
 4. Configure IP settings. 
-5. Run romgrabber. 
-6. Profit.  
+5. Point romgrabber to directory where rom .zip's and .srm files are located
+6. Run romgrabber. 
+7. Profit.  

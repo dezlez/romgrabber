@@ -17,7 +17,7 @@ print 'Connected.'
 #This is where the scripts will be added. 
 
 # List the files from phone
-print 'Listing all. srm from your android device'
+print 'Listing all .srm files on your android device'
 distantFiles = list()
 filePath = '/storage/emulated/0/Download'
 filePattern = '"*.srm"'
