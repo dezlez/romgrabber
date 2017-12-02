@@ -19,7 +19,7 @@ print 'Connected.'
 # Unhash to List rom save states files from phone
 
 #print 'Listing all .srm files on your android device'
-#distantFiles = list()
+#awayFiles = list()
 #filePath = '/storage/emulated/0/Download'
 #filePattern = '"*.srm"'
 #rawcommand = 'find {path} -name {pattern}'
@@ -30,13 +30,13 @@ print 'Connected.'
 
 #for afile in filelist:
 #    (head, filename) = os.path.split(afile)
-#    distantFiles.append(filename)
-#print distantFiles
+#    awayFiles.append(filename)
+#print awayFiles
 
 # List the .zip files in certain directory
 
 #print 'Listing all .zip files from your android device'
-#distantFiles = list()
+#awayFiles = list()
 #filePath = '/storage/emulated/0/Download'
 #filePattern = '"*.zip"'
 #rawcommand = 'find {path} -name {pattern}'
@@ -48,7 +48,7 @@ print 'Connected.'
 #for afile in filelist:
 #    (head, filename) = os.path.split(afile)
 #    distantFiles.append(filename)
-#print distantFiles
+#print awayFiles
 
 #Unhash this script if you want to transfer a file to android device
 
