@@ -47,7 +47,7 @@ print 'Connected.'
 
 #for afile in filelist:
 #    (head, filename) = os.path.split(afile)
-#    distantFiles.append(filename)
+#    awayFiles.append(filename)
 #print awayFiles
 
 #Unhash this script if you want to transfer a file to android device
